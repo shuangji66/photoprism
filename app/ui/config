@@ -1,0 +1,18 @@
+{
+  ".url": {
+    "PhotoPrism.Application": {
+      "noDisplay": false,
+      "allUsers": true,
+      "fileTypes": [],
+      "control": {
+        "accessPerm": "readonly"
+      },
+      "protocol": "http",
+      "title": "PhotoPrism",
+      "icon": "images/icon_{0}.png",
+      "type": "url",
+      "port": "${ui_port}",
+      "url": ""
+    }
+  }
+}
